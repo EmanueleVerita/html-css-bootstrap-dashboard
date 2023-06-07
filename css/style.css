@@ -33,6 +33,10 @@ ul{
     height: 300px;
 }
 
+aside{
+    background-image: url(../img/sidebar-bg.png);
+}
+
 
 
 /*********************
